@@ -157,6 +157,7 @@ upcoming_fight_final_cleaned = upcoming_fight_final.dropna()
 logreg = LogisticRegression(max_iter=2000)
 
 #trains the cross validation scores with logisticregression with the training data and labels
+#cross validation is used with 5 folds, (last 20% of data isn't used)
 cross_val_scores = cross_val_score(logreg, training_data_cleaned, training_labels_cleaned, cv=5)
 cross_val_scores_mean = cross_val_scores.mean()
 #prints the mean success rate of the model
