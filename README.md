@@ -1,4 +1,4 @@
-# UFC MACHINE LEARNING OUTCOME PREDICOTR
+# UFC MACHINE LEARNING OUTCOME PREDICTOR
 
 ## DESCRIPTION
 Python built machine-learning algorithm using Logistic Regression and Cross-Validation with the help of Pandas and the scikit-learn library. Model built as of 1/26/25.  
@@ -37,3 +37,4 @@ Logistic Regression: https://en.wikipedia.org/wiki/Logistic_regression
 Cross Validation: https://en.wikipedia.org/wiki/Cross-validation_(statistics)
 Cross Validation intro video: https://www.youtube.com/watch?v=fSytzGwwBVw
 UFC Dataset and Large scraper for raw data in csv format: https://www.kaggle.com/datasets/maksbasher/ufc-complete-dataset-all-events-1996-2024/data
+NFL Game Prediction Project for reference: https://colab.research.google.com/drive/1_myoj4ecB1GuRVRBz-vTrQ-SXg7Ld2qm?usp=sharing
