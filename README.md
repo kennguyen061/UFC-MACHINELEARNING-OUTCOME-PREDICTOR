@@ -3,6 +3,7 @@
 ## DESCRIPTION
 Python built machine-learning algorithm using Logistic Regression and Cross-Validation with the help of Pandas and the scikit-learn library. Model built as of 1/26/25.  
 Algorithm is built to predict the binary outcome of a MMA fight (win/loss) with the help of data from ufcstats.com (Model is 67.68% accurate at predicting fights).
+- Logistic Regression is used due to the outcome being binary (A fighter can either only win or lose)
 
 ## Features
 - knockdowns
