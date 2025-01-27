@@ -26,6 +26,11 @@ Algorithm is built to predict the binary outcome of a MMA fight (win/loss) with 
 ![3](pic3.JPG)
 ![4](pic4.JPG)
 
+## Flaws of algorithm
+- Fights outside of UFC do not have data, making fights involving debuting fighters impossible to predict
+- Does not account for athlete regression due to age
+- Does not account for injuries from previous fight
+- Does not account for athletes returning after a long lay off
 
 ## Resources
 Logistic Regression: https://en.wikipedia.org/wiki/Logistic_regression
